@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a student in BIT.
+### Hi there 👋 I'm an Undergraduate in BIT.
 
 Here are some ideas to get you started:
 
