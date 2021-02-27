@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm a student in BIT.
 
-<!--
-**jedibobo/jedibobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Deep Learning and Embedded devices like Jetson, Raspberry Pi, Intel NCS, FPGAs etc.
@@ -12,5 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: liuyibo0514@gmail.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**jedibobo/jedibobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->
 [![lazy status](https://github-readme-stats.vercel.app/api?username=jedibobo)]()
